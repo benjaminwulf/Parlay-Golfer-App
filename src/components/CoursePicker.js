@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Header.css";
-import { Navbar, NavItem, Nav, FormGroup, FormControl, Button } from 'react-bootstrap';
+import { Navbar, FormGroup, FormControl, Button } from 'react-bootstrap';
 
 const CoursePicker = () => (
 

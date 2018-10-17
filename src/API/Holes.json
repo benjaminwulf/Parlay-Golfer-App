@@ -1,0 +1,57 @@
+[
+    {
+    "name": "1st Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole01.png",
+    "white": "85 yds",
+    "par": "3"
+},
+
+{
+    "name": "2nd Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole02.png",
+    "white": "128 yds",
+    "par": "3"
+},
+{
+    "name": "3rd Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole03.png",
+    "white": "164 yds",
+    "par": "3"
+},
+{
+    "name": "4th Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole04.png",
+    "white": "117 yds",
+    "par": "3"
+},
+{
+    "name": "5th Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole05.png",
+    "white": "134 yds",
+    "par": "3"
+},
+{
+    "name": "6th Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole06.png",
+    "white": "88 yds",
+    "par": "3"
+},
+{
+    "name": "7th Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole07.png",
+    "white": "102 yds",
+    "par": "3"
+},
+{
+    "name": "8th Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole08.png",
+    "white": "104 yds",
+    "par": "3"
+},
+{
+    "name": "9th Hole",
+    "photo": "https://s3.amazonaws.com/parlay-golfer/img/hole/hole09.png",
+    "white": "64 yds",
+    "par": "3"
+}
+]
