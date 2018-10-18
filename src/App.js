@@ -8,6 +8,7 @@ const App = () => (
     <div>
         <Header />
         <SubHeader />
+        <Footer />
     </div>
 );
 
