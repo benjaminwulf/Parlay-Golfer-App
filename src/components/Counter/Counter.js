@@ -1,5 +1,6 @@
 import React from "react";
-import Footer from "./Footer";
+import Footer from "../Footer";
+import "./Counter.css"
 
 // By extending the React.Component class, Counter inherits functionality from it
 class Counter extends React.Component {
@@ -24,7 +25,7 @@ class Counter extends React.Component {
   render() {
     return (
       <div className="card text-center">
-        <div className="card-header bg-primary text-white">
+        <div className="card-header banner">
         Hole  
         </div>
         <Footer
