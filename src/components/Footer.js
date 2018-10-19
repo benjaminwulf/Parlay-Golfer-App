@@ -1,23 +1,15 @@
 import React from "react";
-import { Nav, Button } from 'react-bootstrap';
-import Holes from "../API/Holes.json";
 
-const Footer = () => (
-
-<Nav className="navbar fixed-bottom bg-light">
-<div className="col-xs-4">
-    <Button type="button" className="btn btn-primary">
-        <i className="fas fa-chevron-circle-left"></i>
-    </Button>
-</div>
-<div className="col-xs-4">
-</div>
-<div className="col-xs-4">
-<Button type="button" className="btn btn-primary">
-    <i className="fas fa-chevron-circle-right"></i>
-</Button>
-</div>
-</Nav>
-    );
+const Footer = props => (
+  <div className="card-body">
+    <p className="card-text">Click Count: {props.count}</p>
+    <button className="btn btn-danger" onClick={props.handleDecrement}>
+      Last Hole
+    </button>
+    <button className="btn btn-primary" onClick={props.handleIncrement}>
+      Next Hole
+    </button>{" "}
+  </div>
+);
 
 export default Footer;
